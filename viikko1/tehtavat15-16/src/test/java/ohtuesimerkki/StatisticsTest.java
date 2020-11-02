@@ -85,7 +85,7 @@ public class StatisticsTest {
     @Test 
     public void topScorersAreFound() {
         List<Player> parhaat = stats.topScorers(3);
-        //assertEquals(3, parhaat.size());
+        assertEquals(3, parhaat.size());
         assertEquals("Gretzky", parhaat.get(0).getName());
         assertEquals("Lemieux", parhaat.get(1).getName());
         assertEquals("Yzerman", parhaat.get(2).getName());
