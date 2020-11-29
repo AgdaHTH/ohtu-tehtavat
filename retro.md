@@ -19,6 +19,6 @@ tilanteen hyviä ja huonoja puolia. Emme ehkä ihan täysin onnistuneet noudatta
 erottelua Sadin ja Madin välillä, eli niihin tuli molempiin selvästi 
 tiimityöskentelyyn liittyviä asioita.
 
-![Retro 1](https://https://github.com/AgdaHTH/ventti/retro_1.PNG)
+![Retro 1](https://github.com/AgdaHTH/ohtu-tehtavat/blob/main/retro_1.PNG)
 
  
