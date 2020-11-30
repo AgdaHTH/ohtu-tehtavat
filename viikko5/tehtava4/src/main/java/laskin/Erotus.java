@@ -40,5 +40,6 @@ public class Erotus extends Komento {
     @Override
     public void peru() {
         tuloskentta.setText("" + edellinen);
+        undo.disableProperty().set(true); 
     }
 }
